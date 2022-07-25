@@ -12,6 +12,5 @@ I also write some projects at [Learn Along](https://github.com/Learn-Along) to h
 
 You might also find a few projects created by me on [pypi](https://pypi.org/user/tinitto/) and [npm](https://www.npmjs.com/~tinitto).
 
-Apart from software, I write [blogs](https://martinahindura.medium.com/) and some [books](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AMartin+Ahindura&s=relevancerank&text=Martin+Ahindura&ref=dp_byline_sr_book_1).
-I have written and sang a couple of songs. You can find one of those songs on [YouTube](https://youtu.be/cyki13xSGYo).
+Apart from software, I write [blogs](https://martinahindura.medium.com/).
 
