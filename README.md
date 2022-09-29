@@ -8,9 +8,11 @@ Hi. I'm [Martin Ahindura](https://app.rimuut.com/user/tinitto). I'm just a guy l
 
 I sometimes hang around at [SopherApps](https://sopherapps.com) doing a bunch of things here and there. Some people like to think of me as the founder of SopherApps. The honest truth is I tried to create SopherApps back in 2016-2018 and failed miserably. It is the LORD who resurrected it three years later in 2021. Even the projects therein are directed by Him.
 
-I also write some projects at [Learn Along](https://github.com/Learn-Along) to help beginners leap from novice to production engineers. You should find something for [Python](https://github.com/Learn-Along/learn-python), [C++](https://github.com/Learn-Along/learn-cpp), [C](https://github.com/Learn-Along/learn-c), [Go](https://github.com/Learn-Along/learn-go) etc. Be sure to check other branches. Some beautiful code is hidden in there.
+I do full-stack engineering. I mainly use python, golang, rust, Typescript and JavaScript (vanilla or react). I also work with Nodejs but I am not a big fan of that at this time. I share the same sentiment when it comes to flutter and php.
 
-You might also find a few projects created by me on [pypi](https://pypi.org/user/tinitto/) and [npm](https://www.npmjs.com/~tinitto).
+I usually enjoy manipulating data and so you will find most of my open source projects are about data e.g. embedded data stores, ETLs, message queues etc. 
+
+You might also find a few projects created by me on [pypi](https://pypi.org/user/tinitto/), and again under [SopherApps pypi account](https://pypi.org/user/sopherapps/) and [npm](https://www.npmjs.com/~tinitto).
 
 Apart from software, I write [blogs](https://martinahindura.medium.com/).
 
